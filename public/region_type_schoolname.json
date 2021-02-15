@@ -1,0 +1,175 @@
+[
+    {
+        "id": "1",
+        "name": "Andijan",
+        "parent_id": "0"
+    },
+    {
+        "id": "2",
+        "name": "Bukhara",
+        "parent_id": "0"
+    },
+    {
+        "id": "3",
+        "name": "Fergana",
+        "parent_id": "0"
+    },
+    {
+        "id": "4",
+        "name": "Jizzakh",
+        "parent_id": "0"
+    },
+
+    {
+        "id": "12",
+        "name": "Tashkent",
+        "parent_id": "0"
+    },
+
+    {
+        "id": "15",
+        "name": "President",
+        "parent_id": "1"
+    },
+    {
+        "id": "16",
+        "name": "Public",
+        "parent_id": "1"
+    },
+    {
+        "id": "17",
+        "name": "Private",
+        "parent_id": "1"
+    },
+    {
+        "id": "18",
+        "name": "Special",
+        "parent_id": "1"
+    },
+
+    {
+        "id": "19",
+        "name": "Andijan President School",
+        "parent_id": "15"
+    },
+    {
+        "id": "20",
+        "name": "1'st school of Andijan",
+        "parent_id": "16"
+    },
+    {
+        "id": "21",
+        "name": "2nd school of Andijan",
+        "parent_id": "16"
+    },
+    {
+        "id": "22",
+        "name": "International School",
+        "parent_id": "17"
+    },
+    {
+        "id": "23",
+        "name": "Intellect School",
+        "parent_id": "17"
+    },
+    {
+        "id": "24",
+        "name": "Sport school",
+        "parent_id": "18"
+    },
+    {
+        "id": "25",
+        "name": "Schools for unabilty",
+        "parent_id": "18"
+    },
+
+    {
+        "id": "25",
+        "name": "President",
+        "parent_id": "2"
+    },
+    {
+        "id": "26",
+        "name": "Public",
+        "parent_id": "2"
+    },
+    {
+        "id": "27",
+        "name": "Private",
+        "parent_id": "2"
+    },
+    {
+        "id": "28",
+        "name": "Special",
+        "parent_id": "2"
+    },
+
+    {
+        "id": "29",
+        "name": "Bukhara President School",
+        "parent_id": "25"
+    },
+    {
+        "id": "30",
+        "name": "1'st school of Bukhara",
+        "parent_id": "26"
+    },
+    {
+        "id": "31",
+        "name": "International School",
+        "parent_id": "27"
+    },
+
+    {
+        "id": "32",
+        "name": "President",
+        "parent_id": "3"
+    },
+    {
+        "id": "33",
+        "name": "Public",
+        "parent_id": "3"
+    },
+
+    {
+        "id": "34",
+        "name": "Special",
+        "parent_id": "3"
+    },
+
+    {
+        "id": "36",
+        "name": "Fergana President School",
+        "parent_id": "32"
+    },
+    {
+        "id": "37",
+        "name": "1'st school of Fergana",
+        "parent_id": "33"
+    },
+    {
+        "id": "38",
+        "name": "International School",
+        "parent_id": "34"
+    },
+    {
+        "id": "39",
+        "name": "Public schools",
+        "parent_id": "4"
+    },
+    {
+        "id": "40",
+        "name": "Umid Litsey",
+        "parent_id": "39"
+    },
+    {
+        "id": "41",
+        "name": "President school",
+        "parent_id": "12"
+    },
+    {
+        "id": "42",
+        "name": "Tashket President School",
+        "parent_id": "41"
+    }
+]
